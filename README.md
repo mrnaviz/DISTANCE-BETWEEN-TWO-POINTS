@@ -25,4 +25,4 @@ print("{:.2f}".format(distance))
 ![image](https://user-images.githubusercontent.com/123350791/230765914-b3e56f1f-52b1-441b-94fa-c58695022f40.png)
 
 ### RESULT:
-Thus the program of Distane between two points is successfully excuted .
+Thus the program of Distane between two points is successfully excuted.
