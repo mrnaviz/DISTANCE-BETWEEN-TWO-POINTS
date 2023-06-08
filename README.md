@@ -15,6 +15,9 @@ Print the statements
 End the program 
 ### PROGRAM:
 ```
+#Program to find the distance between two points.
+#Developed by:NAVEEN KUMAR.B
+#RegisterNumber:212222230091
 import math
 list1=[4,2]
 list2=[10,6]
